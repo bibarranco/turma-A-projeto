@@ -2,4 +2,6 @@
 
 eu alterei no git hub
 
-eu alterei 
+eu alterei local
+
+hahaha to rindo a toa

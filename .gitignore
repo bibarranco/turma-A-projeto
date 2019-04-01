@@ -8,3 +8,5 @@
 #Ignorando diretórios (ou pastas) por nome
 testes/
 
+#Ignorando arquivos específicos
+mundial_do_palmeiras.txt
